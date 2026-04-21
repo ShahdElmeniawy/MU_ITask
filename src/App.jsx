@@ -1,4 +1,4 @@
-import {Routes, Route, HashRouter} from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import LandingPage from "./LandingPage";
 import FormPage from "./FormPage";
 const App = () => {

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShahdElmeniawy.github.io/MU_ITask",
+  "homepage": "https://shahdelmeniawy.github.io/MU_ITask",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
